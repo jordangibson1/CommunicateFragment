@@ -657,7 +657,9 @@ id basic
 id beginning
 id blocking
 id bottom
+id buttonNext
 id buttonPanel
+id buttonPrevious
 id cancel_action
 id chains
 id checkbox
@@ -675,7 +677,7 @@ id end_padder
 id expand_activities_button
 id expanded_menu
 id forever
-id fragment
+id fragment_container
 id fragment_header
 id fragment_header2
 id home
@@ -701,6 +703,7 @@ id normal
 id notification_background
 id notification_main_column
 id notification_main_column_container
+id open_button
 id packed
 id parent
 id parentPanel
@@ -792,6 +795,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout activity_main
+layout activity_main2
 layout fragment_simple2
 layout notification_action
 layout notification_action_tombstone

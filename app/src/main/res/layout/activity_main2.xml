@@ -42,7 +42,7 @@
         android:layout_marginLeft="@dimen/margin_wide"
         android:layout_marginRight="@dimen/margin_wide"
         android:layout_marginStart="@dimen/margin_wide"
-        android:text="@string/title1"
+        android:text="@string/title2"
         android:textAppearance="@style/Base.TextAppearance.AppCompat.Medium"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintLeft_toRightOf="@+id/imageView"
@@ -67,7 +67,7 @@
             android:id="@+id/article"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="@string/article1"
+            android:text="@string/article2"
             tools:layout_editor_absoluteX="8dp"
             tools:layout_editor_absoluteY="288dp"/>
     </ScrollView>
@@ -94,14 +94,14 @@
         app:layout_constraintTop_toBottomOf="@+id/imageView" />
 
     <Button
-        android:id="@+id/buttonNext"
+        android:id="@+id/buttonPrevious"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
         android:layout_marginLeft="8dp"
         android:layout_marginTop="8dp"
-        android:text="Next"
-        android:onClick = "launchSecondActivity"
+        android:text="Previous"
+        android:onClick = "launchMainActivity"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/open_button" />
 
