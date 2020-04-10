@@ -1,0 +1,4 @@
+#Fri Apr 10 17:57:47 EDT 2020
+base.0=C\:\\Users\\jorda\\AndroidStudioProjects\\FragmentExample1\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
