@@ -1,10 +1,27 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\jorda\\AndroidStudioProjects\\FragmentExample2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\jorda\\AndroidStudioProjects\\FragmentCommunicate\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\jorda\\AndroidStudioProjects\\FragmentExample2\\app\\src\\main\\res\\values\\dimens.xml",
+                    "source": "C:\\Users\\jorda\\AndroidStudioProjects\\FragmentCommunicate\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "20,18,19,21",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "770,672,719,816",
+                        "endColumns": "45,46,50,51",
+                        "endOffsets": "811,714,765,863"
+                    },
+                    "to": {
+                        "startLines": "118,119,120,142",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "6189,6235,6282,7620",
+                        "endColumns": "45,46,50,51",
+                        "endOffsets": "6230,6277,6328,7667"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\jorda\\AndroidStudioProjects\\FragmentCommunicate\\app\\src\\main\\res\\values\\dimens.xml",
                     "from": {
                         "startLines": "25,22,20,24,26,23,21,19,18",
                         "startColumns": "4,4,4,4,4,4,4,4,4",
@@ -59,6 +76,25 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\jorda\\AndroidStudioProjects\\FragmentCommunicate\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "17,21,25,41,44,47,37,29,31,35,40,32,36,20,24,28,30,34",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "633,787,1566,2633,2742,2892,2491,2118,2206,2377,2595,2261,2430,735,1503,2082,2152,2325",
+                        "endLines": "17,23,25,41,44,47,37,29,31,35,40,32,36,20,24,28,30,34",
+                        "endColumns": "52,626,478,39,90,69,48,33,54,52,37,62,60,51,62,35,53,51",
+                        "endOffsets": "681,1498,2040,2668,2828,2957,2535,2147,2256,2425,2628,2319,2486,782,1561,2113,2201,2372"
+                    },
+                    "to": {
+                        "startLines": "529,530,533,534,535,536,537,538,539,540,541,542,543,546,547,548,549,550",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "48523,48576,49292,49771,49811,49902,49972,50021,50055,50110,50163,50201,50264,50449,50501,50564,50600,50654",
+                        "endLines": "529,532,533,534,535,536,537,538,539,540,541,542,543,546,547,548,549,550",
+                        "endColumns": "52,626,478,39,90,69,48,33,54,52,37,62,60,51,62,35,53,51",
+                        "endOffsets": "48571,49287,49766,49806,49897,49967,50016,50050,50105,50158,50196,50259,50320,50496,50559,50595,50649,50701"
+                    }
+                },
+                {
                     "source": "C:\\Users\\jorda\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.0.1.aar\\36b937da1f086832b67fb1e3cd01a2b3\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,6,15,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,53,54,58,59,60",
@@ -75,23 +111,6 @@
                         "endLines": "143,144,249,253,433,434,435,436,437,450,451,452,453,454,455,456,457,458,459,460,461,462,463,464,477,478,484,485,489,490,491,497,545,1818,1822,1824,1830,1832,1970,1971",
                         "endColumns": "68,62,35,115,69,67,71,69,60,60,60,61,63,61,60,67,99,59,65,72,68,56,51,61,71,75,34,34,33,34,34,69,70,116,12,109,12,128,71,66",
                         "endOffsets": "7736,7799,27469,27742,42423,42491,42563,42633,42694,43681,43742,43804,43868,43930,43991,44059,44159,44219,44285,44358,44427,44484,44536,44598,45304,45380,45654,45689,45865,45900,45935,46280,50444,134795,134996,135172,135556,135751,146716,146783"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\jorda\\AndroidStudioProjects\\FragmentExample2\\app\\src\\main\\res\\values\\colors.xml",
-                    "from": {
-                        "startLines": "20,18,19,21",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "770,672,719,816",
-                        "endColumns": "45,46,50,51",
-                        "endOffsets": "811,714,765,863"
-                    },
-                    "to": {
-                        "startLines": "118,119,120,142",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "6189,6235,6282,7620",
-                        "endColumns": "45,46,50,51",
-                        "endOffsets": "6230,6277,6328,7667"
                     }
                 },
                 {
@@ -112,26 +131,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\jorda\\AndroidStudioProjects\\FragmentExample2\\app\\src\\main\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "17,21,25,41,44,47,37,29,31,35,40,32,36,20,24,28,30,34",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "633,787,1566,2633,2742,2892,2491,2118,2206,2377,2595,2261,2430,735,1503,2082,2152,2325",
-                        "endLines": "17,23,25,41,44,47,37,29,31,35,40,32,36,20,24,28,30,34",
-                        "endColumns": "52,626,478,39,90,69,48,33,54,52,37,62,60,51,62,35,53,51",
-                        "endOffsets": "681,1498,2040,2668,2828,2957,2535,2147,2256,2425,2628,2319,2486,782,1561,2113,2201,2372"
-                    },
-                    "to": {
-                        "startLines": "529,530,533,534,535,536,537,538,539,540,541,542,543,546,547,548,549,550",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "48523,48576,49292,49771,49811,49902,49972,50021,50055,50110,50163,50201,50264,50449,50501,50564,50600,50654",
-                        "endLines": "529,532,533,534,535,536,537,538,539,540,541,542,543,546,547,548,549,550",
-                        "endColumns": "52,626,478,39,90,69,48,33,54,52,37,62,60,51,62,35,53,51",
-                        "endOffsets": "48571,49287,49766,49806,49897,49967,50016,50050,50105,50158,50196,50259,50320,50496,50559,50595,50649,50701"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\jorda\\AndroidStudioProjects\\FragmentExample2\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "C:\\Users\\jorda\\AndroidStudioProjects\\FragmentCommunicate\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "19",
                         "startColumns": "4",

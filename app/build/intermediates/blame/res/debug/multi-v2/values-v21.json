@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\jorda\\AndroidStudioProjects\\FragmentExample2\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+            "outputFile": "C:\\Users\\jorda\\AndroidStudioProjects\\FragmentCommunicate\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
             "map": [
                 {
                     "source": "C:\\Users\\jorda\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.0.1.aar\\1f4a8873b210bd3256b43c44e4bb2d32\\res\\values-v21\\values-v21.xml",
